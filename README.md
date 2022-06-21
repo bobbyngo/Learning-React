@@ -13,3 +13,5 @@ Learning React from stratch
 
 * Travel website
 <img src="images/Project2-demo2.PNG" width="20%">
+
+## Project 3: Interactive web app
