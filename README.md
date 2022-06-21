@@ -7,7 +7,7 @@ Learning React from stratch
    <img src="images/Project1-demo.PNG" width="20%">
 </div>
 
-## Project 2: Dynamic website with React props 
+## Project 2: Static website with React props 
 * Air bnb website
 <img src="images/Project2-demo1.PNG" width="20%">
 
