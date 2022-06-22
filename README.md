@@ -8,7 +8,7 @@ Learning React from stratch
 </div>
 
 ## Project 2: Static website with React props 
-* Air bnb website
+* Airbnb website
 <img src="images/Project2-demo1.PNG" width="40%">
 
 * Travel website
