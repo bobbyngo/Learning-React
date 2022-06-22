@@ -9,9 +9,9 @@ Learning React from stratch
 
 ## Project 2: Static website with React props 
 * Air bnb website
-<img src="images/Project2-demo1.PNG" width="20%">
+<img src="images/Project2-demo1.PNG" width="30%">
 
 * Travel website
-<img src="images/Project2-demo2.PNG" width="20%">
+<img src="images/Project2-demo2.PNG" width="30%">
 
 ## Project 3: Interactive web app
