@@ -14,4 +14,5 @@ Learning React from stratch
 * Travel website
 <img src="images/Project2-demo2.PNG" width="40%">
 
-## Project 3: Interactive web app
+## Project 3: Interactive web app with React State and useEffect
+<img src="images/Project3-demo.PNG" width="40%">
