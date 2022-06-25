@@ -17,3 +17,6 @@ Solo Projects of Scrimba React tutorial
 
 ## Project 3: Interactive web app with React State and useEffect
 <img src="images/Project3-demo.PNG" width="40%">
+
+## Project 4: Practice Problems
+<img src="images/Project4-demo.gif" width="40%">
