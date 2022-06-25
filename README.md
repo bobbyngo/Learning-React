@@ -21,7 +21,9 @@ A web app allowing user to create a meme with fetching a meme image api
 <br/>
 <img src="images/Project3-demo.PNG" width="40%">
 
-## Project 4: Practice Problems
+## Project 4: Adding Features Project
+These projects are purposely practicing to be familiar with the provided code base. Adding new feature and implementation to the existed system
+
 <h3>Light-Dark Theme</h3>
- Implementing toggle functionality with React props with given code base
+ Implementing toggle functionality to allow toggle light and dark theme
 <img src="images/Project4_demo1.gif" width="40%">
