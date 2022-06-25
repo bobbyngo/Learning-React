@@ -2,7 +2,8 @@
 ```
 Learning React from stratch with Scrimba
 ```
-Solo Projects of Scrimba React tutorial
+<h2>Solo Projects of Scrimba React tutorial</h2>
+
 ## Project 1: A static website with React JSX Components
 <div align-items="center">
    <img src="images/Project1-demo.PNG" width="40%">
