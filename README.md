@@ -1,4 +1,4 @@
-# ReactIntro
+# React-Intro
 ```
 Learning React from stratch with Scrimba
 ```
