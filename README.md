@@ -1,6 +1,7 @@
 # React-Intro
 ```
 Learning React from stratch with Scrimba
+Focusing on functional components
 ```
 <h2>Solo Projects of Scrimba React tutorial</h2>
 
