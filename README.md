@@ -27,3 +27,7 @@ These projects are purposely practicing to be familiar with the provided code ba
 <h3>Light-Dark Theme</h3>
  Implementing toggle functionality to allow toggle light and dark theme
 <img src="images/Project4_demo1.gif" width="40%">
+
+## Tenzies Game
+A Tenzies game summarize everything I have learned
+<img src="images/Tenzies.gif" width="40%">
