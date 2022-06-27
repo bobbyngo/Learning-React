@@ -29,6 +29,6 @@ These projects are purposely practicing to be familiar with the provided code ba
 <img src="images/Project4_demo1.gif" width="40%">
 
 ## Tenzies Game
-A Tenzies game summarizing everything I have learned
+A Tenzies game from stratch summarizing everything I have learned
 
 <img src="images/Tenzies.gif" width="40%">
