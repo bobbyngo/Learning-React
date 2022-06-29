@@ -33,3 +33,8 @@ These projects are purposely practicing to be familiar with the provided code ba
 A Tenzies game from stratch summarizing everything I have learned
 
 <img src="images/Tenzies.gif" width="40%">
+
+## Typing Game
+A Typing Game with React Hooks
+
+<img src="images/TypingGame.PNG" width="40%">
