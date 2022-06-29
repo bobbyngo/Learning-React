@@ -37,4 +37,4 @@ A Tenzies game from stratch summarizing everything I have learned
 ## Typing Game
 A Typing Game with React Hooks
 
-
+<img src="images/TypingGame.PNG" width="40%">
