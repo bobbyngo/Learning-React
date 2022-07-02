@@ -1,4 +1,4 @@
-# React-Intro
+# React-Learning-Projects
 ```
 Learning React from stratch with Scrimba
 Focusing on functional components
